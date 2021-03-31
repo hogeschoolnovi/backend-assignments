@@ -12,8 +12,7 @@
 8. https://github.com/hogeschoolnovi/SD-BE-JP-access-modifier
 9. https://github.com/hogeschoolnovi/SD-BE-JP-keywords-static-overloading
 10. https://github.com/hogeschoolnovi/SD-BE-JP-Unittest-examples
-11. https://github.com/hogeschoolnovi/SD-BE-JP-Unittest-BookExamples
-12. https://github.com/hogeschoolnovi/SD-BE-JP-Maven_and_Unittest-assignment
+11. https://github.com/hogeschoolnovi/SD-BE-JP-Maven_and_Unittest-assignment
 
 ## Java & Spring
 
