@@ -7,7 +7,6 @@
 3. https://github.com/hogeschoolnovi/SD-BE-JP-Overerving-01a
 4. https://github.com/hogeschoolnovi/SD-BE-JP-Overerving-01b
 5. https://github.com/hogeschoolnovi/SD-BE-JP-Overerving-01c
-6. https://github.com/hogeschoolnovi/SD-BE-JP-Overerving-02
 7. https://github.com/hogeschoolnovi/SD-BE-JP-scope
 8. https://github.com/hogeschoolnovi/SD-BE-JP-access-modifier
 9. https://github.com/hogeschoolnovi/SD-BE-JP-keywords-static-overloading
