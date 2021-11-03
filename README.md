@@ -3,10 +3,11 @@
 ## Java Programmeren
 
 1. https://github.com/hogeschoolnovi/SD-BE-JP-oefenopdrachten
-2. https://github.com/hogeschoolnovi/SD-BE-JP-Relaties
-3. https://github.com/hogeschoolnovi/SD-BE-JP-Overerving-01a
-4. https://github.com/hogeschoolnovi/SD-BE-JP-Overerving-01b
-5. https://github.com/hogeschoolnovi/SD-BE-JP-Overerving-01c
+2. https://github.com/hogeschoolnovi/SD-BE-JP-methods
+3. https://github.com/hogeschoolnovi/SD-BE-JP-Relaties
+4. https://github.com/hogeschoolnovi/SD-BE-JP-Overerving-01a
+5. https://github.com/hogeschoolnovi/SD-BE-JP-Overerving-01b
+6. https://github.com/hogeschoolnovi/SD-BE-JP-Overerving-01c
 7. https://github.com/hogeschoolnovi/SD-BE-JP-scope
 8. https://github.com/hogeschoolnovi/SD-BE-JP-access-modifier
 9. https://github.com/hogeschoolnovi/SD-BE-JP-keywords-static-overloading
